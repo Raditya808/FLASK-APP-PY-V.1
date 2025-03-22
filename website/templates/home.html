@@ -1,0 +1,33 @@
+{% extends "base.html" %} {% block title%}Home{% endblock %} {% block content %}
+<head>
+  <h1>Home Page</h1>
+  <div class="home-container">
+    <img
+      src="{{ url_for('static', filename='images.jpg') }}"
+      alt="Logo"
+      width="100"
+    />
+
+    <!-- Nama Brand -->
+    <h1 class="brand-name">WEB APP FLASK PYTHON</h1>
+
+    <!-- Link Media Sosial -->
+    <div class="social-links">
+      <div class="social-links">
+        <a
+          href="https://www.instagram.com/muhammad_raditya_ramadhan0?igsh=N29tY3c4d3I1cXY="
+          target="_blank"
+        >
+          <i class="fa fa-instagram"></i>
+        </a>
+        <a href="https://www.facebook.com/share/1Eb8J8PSXx/" target="_blank">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a href="https://github.com/Raditya808" target="_blank">
+          <i class="fa fa-github"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+  {% endblock %}
+</head>
