@@ -1,2 +1,8 @@
+*LATIHAN FLASK PYTHON*
 
-Membuat web berbasis flask
+
+
+latihan web dengan flask berbahasa python
+juga dengan database yang tersimpan untuk login
+
+
