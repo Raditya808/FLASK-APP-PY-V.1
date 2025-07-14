@@ -30,5 +30,5 @@ A simple web application built using the **Flask** framework in Python, featurin
 │ ├── init.py # Flask app factory
 │ ├── auth.py # Authentication routes
 │ ├── views.py # Main page views
-│ └── ApplicationRegisteredUser.py # User model or database operations
+│ └── models.py # User model or database operations
 
