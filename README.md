@@ -11,6 +11,9 @@ A simple web application built using the **Flask** framework in Python, featurin
 - Modular project structure (`instance/`, `review/`, `website/`)
 - Easy to extend and maintain
 - FLASK LOGIN_SIGN-UP/
+
+  
+```bash
 ├── instance/
 │ └── database.db # SQLite database
 ├── review web/ # Optional project notes or reports
