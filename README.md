@@ -12,6 +12,8 @@ A simple web application built using the **Flask** framework in Python, featurin
 - Easy to extend and maintain
 - FLASK LOGIN_SIGN-UP/
 
+## pip install flask
+
   
 ```bash
 ├── instance/
