@@ -34,3 +34,6 @@ A simple web application built using the **Flask** framework in Python, featurin
 │ ├── views.py # Main page views
 │ └── models.py # User model or database operations
 
+# a simple flask projects 
+# https://flask.palletsprojects.com/en/stable/
+
