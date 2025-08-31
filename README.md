@@ -1,42 +1,43 @@
-# Module Flask App - Python Web Project
-# V.1
+# Flask App - Python Web Project  
+**Version 1.0**
 
 A simple web application built using the **Flask** framework in Python, featuring basic user authentication with a database.
 
-## 🔧 Features
+---
 
-- User login system
-- Flask-based routing and templating
-- Integration with a database (for storing login data)
-- Modular project structure (`instance/`, `review/`, `website/`)
-- Easy to extend and maintain
-- FLASK LOGIN_SIGN-UP/
+## 🚀 Features
+- User login & sign-up system  
+- Flask-based routing and templating  
+- SQLite database integration  
+- Modular project structure (`instance/`, `website/`, `review/`)  
+- Easy to extend and maintain  
 
-## pip install flask
+---
 
-  
+## 📂 Project Structure
 ```bash
 ├── instance/
-│ └── database.db # SQLite database
-├── review web/ # Optional project notes or reports
+│   └── database.db        # SQLite database
+├── review/                # Optional project notes or reports
 ├── website/
-│ ├── pycache/ # Compiled Python cache
-│ ├── static/ # Static files (CSS, JS, images)
-│ │ ├── base.css
-│ │ ├── index.js
-│ ├── templates/ # HTML templates
-│ │ ├── base.html
-│ │ ├── home.html
-│ │ ├── login.html
-│ │ └── sign_up.html
-│ ├── init.py # Flask app factory
-│ ├── auth.py # Authentication routes
-│ ├── views.py # Main page views
-│ └── models.py # User model or database operations
-│ 
-# main.py
+│   ├── __pycache__/       # Compiled Python cache
+│   ├── static/            # Static files (CSS, JS, images)
+│   │   ├── base.css
+│   │   └── index.js
+│   ├── templates/         # HTML templates
+│   │   ├── base.html
+│   │   ├── home.html
+│   │   ├── login.html
+│   │   └── sign_up.html
+│   ├── __init__.py        # Flask app factory
+│   ├── auth.py            # Authentication routes
+│   ├── views.py           # Main page views
+│   └── models.py          # User model / database operations
+│
+└── main.py                # App entry point
 
-To install flask:
+# hpw to use and install
+
 ```sh
 pip install flask
 ```
