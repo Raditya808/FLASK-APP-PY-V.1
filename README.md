@@ -38,6 +38,7 @@ A simple web application built using the **Flask** framework in Python, featurin
 
  how to use and install
 
+to install:
 ```sh
 pip install flask
 ```
