@@ -1,5 +1,4 @@
 # Flask App - Python Web Project  
-**Version 1.0**
 
 A simple web application built using the **Flask** framework in Python, featuring basic user authentication with a database.
 
@@ -36,12 +35,16 @@ A simple web application built using the **Flask** framework in Python, featurin
 │
 └── main.py                # App entry point
 
- how to use and install
+ 
+
+## ⚙️ How to Use and Install
+```
 
 to install:
 ```sh
 pip install flask
 ```
+
 
 To run:
 ```sh
