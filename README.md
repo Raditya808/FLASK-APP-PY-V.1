@@ -33,4 +33,5 @@ A simple web application built using the **Flask** framework in Python, featurin
 │ ├── auth.py # Authentication routes
 │ ├── views.py # Main page views
 │ └── models.py # User model or database operations
-
+│ 
+main.py
