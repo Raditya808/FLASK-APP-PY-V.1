@@ -39,7 +39,5 @@ main.py
 # how to use ?
 ```sh
 pip install flask
-```
-```sh
 py main.py
 ```
