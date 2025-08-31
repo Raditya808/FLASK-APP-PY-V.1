@@ -36,7 +36,7 @@ A simple web application built using the **Flask** framework in Python, featurin
 │
 └── main.py                # App entry point
 
-# hpw to use and install
+ how to use and install
 
 ```sh
 pip install flask
