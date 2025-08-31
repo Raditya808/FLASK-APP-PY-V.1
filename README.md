@@ -40,7 +40,7 @@ main.py
 ```sh
 pip install flask
 ```
-
+# To run
 ```sh
 py main.py
 ```
