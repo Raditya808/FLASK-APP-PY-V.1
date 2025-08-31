@@ -35,3 +35,11 @@ A simple web application built using the **Flask** framework in Python, featurin
 │ └── models.py # User model or database operations
 │ 
 main.py
+
+# how to use ?
+```sh
+pip install flask
+```
+```sh
+py main.py
+```
