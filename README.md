@@ -4,7 +4,7 @@ A simple web application built using the **Flask** framework in Python, featurin
 
 ---
 <p align="center">
-  <img src="assets/flask1.png" alt="Flask Logo" width="300"/>
+  <img src="assets/flask2.png" alt="Flask Logo" width="800px"/>
 </p>
 
 
