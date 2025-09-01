@@ -3,6 +3,10 @@
 A simple web application built using the **Flask** framework in Python, featuring basic user authentication with a database.
 
 ---
+<p align="center">
+  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask Logo" width="300"/>
+</p>
+
 
 ## 🚀 Features
 - User login & sign-up system  
