@@ -1,4 +1,5 @@
 # Flask App - Python Web Project  
+Repo yang digunakan untuk membuat website menggunakan framework flask
 
 A simple web application built using the **Flask** framework in Python, featuring basic user authentication with a database.
 
